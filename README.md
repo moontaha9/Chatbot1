@@ -1,5 +1,5 @@
 # Alethia
-Alethia is a personal AI assistant chatbot built using Streamlit, LangChain, and Groq API.
+Alethia is a personal AI assistant chatbot built using Streamlit, LangChain, and the Groq API. This project was developed as part of my training program with Hacktiv8.
 
 ## Features
 - Interactive chatbot
