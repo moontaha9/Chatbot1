@@ -1,6 +1,3 @@
-# Cara Menjalankan:
-# >>> streamlit run Alethia.py
-
 import streamlit as st
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain_groq import ChatGroq
