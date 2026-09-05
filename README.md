@@ -8,10 +8,5 @@ Alethia is a personal AI assistant chatbot built using Streamlit, LangChain, and
 - API key input
 - AI-powered responses
 
-## Requirements
-- streamlit
-- langchain-core
-- langchain-groq
-
 ## How to Run
 streamlit run Alethia.py
